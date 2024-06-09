@@ -1,2 +1,2 @@
 # Hermite-spline-interpolation-demo
-一种样条插值方法的 python demo，可以保证两点之间单调性不变
+本仓库实现了一个插值算法的demo，在插值曲线平滑的前提下保证了相邻节点之间的曲线单调。
